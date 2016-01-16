@@ -1,0 +1,16 @@
+code, kbd, pre, samp {
+    font-family: monospace;
+}
+
+.navbar,
+.pagination .active > a {
+    background: #2c3e50;
+}
+
+.list-group-item {
+    font-size: 1.2em;
+}
+
+.well {
+    background-color: #ecf0f1;
+}
